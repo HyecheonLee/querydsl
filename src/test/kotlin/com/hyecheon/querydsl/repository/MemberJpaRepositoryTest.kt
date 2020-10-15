@@ -2,7 +2,7 @@ package com.hyecheon.querydsl.repository
 
 import com.hyecheon.querydsl.dto.*
 import com.hyecheon.querydsl.entity.*
-import org.assertj.core.api.Java6Assertions.*
+import org.assertj.core.api.Assertions.*
 import org.junit.jupiter.api.*
 import org.springframework.beans.factory.annotation.*
 import org.springframework.boot.test.context.*
